@@ -1,0 +1,31 @@
+body{
+    background-image: url("watercolor-abstract-purple-background_23-2149120778.avif");
+    background-size: cover;
+}
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+
+}
+
+#status
+{
+font-size: 18px;
+}
+
+canvas{
+    box-shadow: 10px 10px 10px purple;
+    border-color: black;
+    width: 100px;
+    height:100px;
+    margin-top:30px;
+    
+
+}
+#status , #number_of_objects, #start_model
+{
+    font-size: 18px;
+
+}
